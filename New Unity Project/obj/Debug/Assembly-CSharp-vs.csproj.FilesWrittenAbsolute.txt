@@ -1,0 +1,10 @@
+/Users/mokhong/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mokhong/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mokhong/New Unity Project/obj/Debug/Assembly-CSharp.dll
+/Users/mokhong/New Unity Project/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/mokhong/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/mokhong/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/mokhong/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mokhong/New Unity Project/Temp/bin/Debug/nunit.framework.dll
+/Users/mokhong/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mokhong/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
