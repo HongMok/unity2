@@ -9,6 +9,7 @@ public class AutoDestroy : MonoBehaviour {
 	}
 		//sdalfajlfjaslfdj
 		//sdfalsfjdalsfjl
+		//asdfdasf
 	
 	// Update is called once per frame
 	void Update () {

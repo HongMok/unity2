@@ -6,6 +6,7 @@ public class CsBox : MonoBehaviour {
 
 		public Rigidbody ballTemp;
 		public Rigidbody ball;
+		//asdfjlsafjdsalfjl
 
 	// Use this for initialization
 	void Start () {
