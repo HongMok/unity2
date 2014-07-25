@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\_Freakow\RageSpline\Editor\RageSplineEditor.cs" />
-     <Compile Include="Assets\_Freakow\RageSpline\Editor\RageSplineStyleEditor.cs" />
      <Compile Include="Assets\_Freakow\RageSpline\Editor\TransformInspector.cs" />
      <Compile Include="Assets\_ThirdParty\RageFarseer\Editor\CustomAssetUtility.cs" />
      <Compile Include="Assets\_ThirdParty\RageFarseer\Editor\FarseerComponents\Base\CollisionGroupAsset.cs" />
